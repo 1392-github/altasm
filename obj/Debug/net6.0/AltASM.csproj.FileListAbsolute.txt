@@ -1,0 +1,15 @@
+C:\Users\noname\source\repos\AltASM\bin\Debug\net6.0\AltASM.exe
+C:\Users\noname\source\repos\AltASM\bin\Debug\net6.0\AltASM.deps.json
+C:\Users\noname\source\repos\AltASM\bin\Debug\net6.0\AltASM.runtimeconfig.json
+C:\Users\noname\source\repos\AltASM\bin\Debug\net6.0\AltASM.dll
+C:\Users\noname\source\repos\AltASM\bin\Debug\net6.0\AltASM.pdb
+C:\Users\noname\source\repos\AltASM\obj\Debug\net6.0\AltASM.csproj.AssemblyReference.cache
+C:\Users\noname\source\repos\AltASM\obj\Debug\net6.0\AltASM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noname\source\repos\AltASM\obj\Debug\net6.0\AltASM.AssemblyInfoInputs.cache
+C:\Users\noname\source\repos\AltASM\obj\Debug\net6.0\AltASM.AssemblyInfo.cs
+C:\Users\noname\source\repos\AltASM\obj\Debug\net6.0\AltASM.csproj.CoreCompileInputs.cache
+C:\Users\noname\source\repos\AltASM\obj\Debug\net6.0\AltASM.dll
+C:\Users\noname\source\repos\AltASM\obj\Debug\net6.0\refint\AltASM.dll
+C:\Users\noname\source\repos\AltASM\obj\Debug\net6.0\AltASM.pdb
+C:\Users\noname\source\repos\AltASM\obj\Debug\net6.0\AltASM.genruntimeconfig.cache
+C:\Users\noname\source\repos\AltASM\obj\Debug\net6.0\ref\AltASM.dll
